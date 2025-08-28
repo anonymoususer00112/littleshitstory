@@ -3,7 +3,7 @@ let div = document.querySelector(".div");
 form.addEventListener("submit", (e) => {
     let bitch = document.querySelector("input").value.trim().toLowerCase();
     console.log(bitch)
-    if (bitch == "senara") {
+    if (bitch == "deffer555deffer") {
         alert("correct answer senara(elena), you got it right")
         e.preventDefault()
         div.classList.remove("hide");
